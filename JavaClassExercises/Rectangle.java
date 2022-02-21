@@ -4,7 +4,7 @@
 //named 'Area' which returns the area and length and breadth passed as
 //parameters to its constructor.
 
-package javaClassExercises;
+package JavaClassExercises;
 
 public class Rectangle {
 
