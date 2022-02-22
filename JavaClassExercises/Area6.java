@@ -4,7 +4,7 @@
 // 'getArea' returns the area of the rectangle. Length and breadth of rectangle
 // are entered through keyboard.
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Area6 {
 
