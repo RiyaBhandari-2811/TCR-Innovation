@@ -7,7 +7,7 @@
 // -> getRadius. public method that returns the radius of Circle
 // -> getArea. Method that returns the area of Circle
 
-package JavaClassExercises;
+// package JavaClassExercises;
 
 public class Circle {
 

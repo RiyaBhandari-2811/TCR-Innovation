@@ -5,7 +5,7 @@
 //        area of the rectangle. Length and breadth of rectangle are entered through
 //        keyboard.
 
-package JavaClassExercises;
+// package JavaClassExercises;
 
 import java.util.Scanner;
 

@@ -5,7 +5,7 @@
 //Area= √	p(p	−a) (p−b) (p−c) //(Heron’s Formula) ( p = semiperimeter)
 // perimeter = a + b + c
 
-package JavaClassExercises;
+// package JavaClassExercises;
 
 public class Triangle {
 
