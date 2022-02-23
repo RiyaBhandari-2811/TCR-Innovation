@@ -23,6 +23,7 @@ public class Area6 {
     }
 
     public static void main(String[] args) {
+        
         // The Scanner is a built-in class in java used for read the input from the user in java programming.
         Scanner scn = new Scanner(System.in);
 
